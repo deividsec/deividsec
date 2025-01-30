@@ -1,8 +1,8 @@
 ## <h1 align="center">Olá, meu nome é Deivid Araújo! 👋</h1>
-<h3 align="center">Sou um Brasileiro Estudante Entusiasta de Segurança Defensiva e Investigação Digital</h3>
+<h3 align="center">Brasileiro Estudante Entusiasta de Segurança Defensiva e Investigação Digital 🔎</h3>
 <p align="center"> <a href="https://twitter.com/extasedeiv" target="blank"><img src="https://img.shields.io/twitter/follow/extasedeiv?logo=twitter&style=for-the-badge" alt="_azhar_ghafoor" /></a> </p>
 
-- 🔭 Atualmente estudo [Cibersegurança](https://www.cruzeirodosul.edu.br) e tenho conhecimentos técnicos em Investigação Digital usando **OSINT, Maltego** e outras ferramentas open source.
+- 🔭 Atualmente estudo [Cibersegurança](https://www.cruzeirodosul.edu.br) na Universidade Cruzeiro do Sul, e tenho conhecimentos técnicos em Investigação Digital usando **OSINT, Maltego** e outras ferramentas open source.
 - 🌱 Tenho feito recentemente diversos cursos como: *PRIME BLUE TEAM - INICIANTES, Introdução ao Hacking e Pentest 2.0, SANTANDER BOOTCAMP CIBERSEGURANÇA #2 e várias outros cursos relacionados á segurança cibernética*
 - 📝 Faço postagens sobre conscientização educacional voltadas a Cibersegurança no [Linkedin](https://www.linkedin.com/in/deivid-cauã-araújo-20833b268/)
 - 📄 Conheça minhas experiências [Resumo](https://drive.google.com/file/d/1lKlS9epwHLNtE5usVTuI2ySgUCtYf7uf/view)
