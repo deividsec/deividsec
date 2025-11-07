@@ -1,5 +1,5 @@
 ## <h1 align="center">Olá, meu nome é Deivid Araújo! 👋</h1>
-<h3 align="center">Entusista de Cibersegurança | Entusiasta por proteger sistemas, redes e dados. 🔎</h3>
+<h3 align="center">Profissional de Cibersegurança | Entusiasta por proteger sistemas, redes e dados. 🔎</h3>
 <p align="center"> <a href="https://twitter.com/extasedeiv" target="blank"><img src="https://img.shields.io/twitter/follow/extasedeiv?logo=twitter&style=for-the-badge" alt="_azhar_ghafoor" /></a> </p>
 
 - 🔭 Atualmente estudo [Cibersegurança](https://www.cruzeirodosul.edu.br) na Universidade Cruzeiro do Sul, e tenho conhecimentos técnicos em Investigação Digital usando **OSINT, Maltego** e outras ferramentas open source.
