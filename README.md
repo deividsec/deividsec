@@ -1,7 +1,7 @@
 ## <h1 align="center">Olá, meu nome é Deivid Araújo! 👋</h1>
 <h3 align="center">Profissional de Cibersegurança | Entusiasta por proteger sistemas, redes e dados. 🔎</h3>
 
-- 🔭 Atualmente estudo [Cibersegurança](https://www.cruzeirodosul.edu.br) na Universidade Cruzeiro do Sul, e tenho conhecimentos técnicos em Investigação Digital usando **OSINT, Maltego** e outras ferramentas open source.
+- 🔭 Atualmente estudo [Cibersegurança](https://www.cruzeirodosul.edu.br) na Universidade Cruzeiro do Sul, e tenho conhecimentos técnicos em Forense de Rede, Perícia Forense, SIEM e Respostas a Incidentes.
 - 🌱 Tenho feito recentemente diversos cursos como: *PRIME BLUE TEAM - Acadi-TI, Introdução ao Hacking e Pentest 2.0, SANTANDER BOOTCAMP CIBERSEGURANÇA #2, CAPC (Cybersecurity Awareness Professional Certification) e vários outros cursos relacionados á segurança cibernética*
 - 📝 Faço postagens sobre Conscientização Cibernética no [Linkedin](https://www.linkedin.com/in/deivid-cauã-araújo-20833b268/)
 - 📄 Conheça minhas experiências [Resumo](https://drive.google.com/file/d/1lKlS9epwHLNtE5usVTuI2ySgUCtYf7uf/view)
