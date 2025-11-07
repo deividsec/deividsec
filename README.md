@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estudo [Cibersegurança](https://www.cruzeirodosul.edu.br) na Universidade Cruzeiro do Sul, e tenho conhecimentos técnicos em Investigação Digital usando **OSINT, Maltego** e outras ferramentas open source.
 - 🌱 Tenho feito recentemente diversos cursos como: *PRIME BLUE TEAM - INICIANTES, Introdução ao Hacking e Pentest 2.0, SANTANDER BOOTCAMP CIBERSEGURANÇA #2 e vários outros cursos relacionados á segurança cibernética*
-- 📝 Faço postagens sobre conscientização educacional voltadas a Cibersegurança no [Linkedin](https://www.linkedin.com/in/deivid-cauã-araújo-20833b268/)
+- 📝 Faço postagens sobre Conscientização Cibernética no [Linkedin](https://www.linkedin.com/in/deivid-cauã-araújo-20833b268/)
 - 📄 Conheça minhas experiências [Resumo](https://drive.google.com/file/d/1lKlS9epwHLNtE5usVTuI2ySgUCtYf7uf/view)
 
 ---
