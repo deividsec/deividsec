@@ -29,6 +29,7 @@
 ![Windows](https://img.shields.io/badge/-pfSense-0D1117?style=for-the-badge&logo=pfsense&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Snort-0D1117?style=for-the-badge&logo=snort&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Wireshark-0D1117?style=for-the-badge&logo=wireshark&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-BurpSuite-0D1117?style=for-the-badge&logo=burpsuite&labelColor=0D1117)&nbsp;
  
 ### Conhecimentos complementares:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -37,6 +38,7 @@
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
   
 ### Estudando no momento:
+![Python](https://img.shields.io/badge/-tryhackme-0D1117?style=for-the-badge&logo=tryhackme&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
