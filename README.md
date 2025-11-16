@@ -28,6 +28,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-pfSense-0D1117?style=for-the-badge&logo=pfsense&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Snort-0D1117?style=for-the-badge&logo=snort&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Wireshark-0D1117?style=for-the-badge&logo=wireshark&labelColor=0D1117)&nbsp;
  
 ### Conhecimentos complementares:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
