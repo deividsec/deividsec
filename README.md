@@ -22,6 +22,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117)&nbsp; 
 ![Linux](https://img.shields.io/badge/-Kali+Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D1117)&nbsp; 
+![Linux](https://img.shields.io/badge/-parrotsecurity-0D1117?style=for-the-badge&logo=parrotsecurity&logoColor=white&labelColor=0D1117)&nbsp; 
  
 ### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
@@ -30,6 +31,7 @@
 ![Windows](https://img.shields.io/badge/-Snort-0D1117?style=for-the-badge&logo=snort&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Wireshark-0D1117?style=for-the-badge&logo=wireshark&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-BurpSuite-0D1117?style=for-the-badge&logo=burpsuite&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-splunk-0D1117?style=for-the-badge&logo=splunk&labelColor=0D1117)&nbsp;
  
 ### Conhecimentos complementares:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -38,6 +40,7 @@
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
   
 ### Estudando no momento:
+![Python](https://img.shields.io/badge/-cyberdefenders-0D1117?style=for-the-badge&logo=cyberdefenders&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-tryhackme-0D1117?style=for-the-badge&logo=tryhackme&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
