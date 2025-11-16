@@ -21,6 +21,7 @@
 ### Principais habilidades:
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117)&nbsp; 
+![Linux](https://img.shields.io/badge/-Kali+Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D1117)&nbsp; 
  
 ### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
