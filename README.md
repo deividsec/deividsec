@@ -1,20 +1,46 @@
-## <h1 align="center">Olá, meu nome é Deivid Araújo! 👋</h1>
-<h3 align="center">Profissional de Cibersegurança | Entusiasta por proteger sistemas, redes e dados. 🔎</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=080cd1&height=120&section=header"/>
 
-- 🔭 Atualmente estudo [Cibersegurança](https://www.cruzeirodosul.edu.br) para me tornar um Tecnólogo na Universidade Cruzeiro do Sul, e tenho conhecimentos técnicos em Forense de Rede, Perícia Forense, SIEM e Respostas a Incidentes.
-- 🌱 Tenho feito recentemente diversos cursos como: *PRIME BLUE TEAM - Acadi-TI, Introdução ao Hacking e Pentest 2.0, SANTANDER BOOTCAMP CIBERSEGURANÇA #2, CAPC (Cybersecurity Awareness Professional Certification) e vários outros cursos relacionados á segurança cibernética*
-- 📝 Faço postagens sobre Conscientização Cibernética no [Linkedin](https://www.linkedin.com/in/deivid-cauã-araújo-20833b268/)
-- 📄 Conheça minhas experiências [Resumo](https://drive.google.com/file/d/1lKlS9epwHLNtE5usVTuI2ySgUCtYf7uf/view)
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=080cd1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Deivid+Cauã+Araújo;Threat+Analysis;Defensive+Security;Digital+Investigation;Technical+Content+in+Cybersecurity.;Sejam+Bem-vindos!+:%29)](https://git.io/typing-svg) 
 
-<h3 align="center">Minhas Redes Sociais:</h3>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=deividsec&show_icons=true&count_private=true&hide_border=true&title_color=080cd1&icon_color=080cd1&text_color=c9d1d9&bg_color=0d1117" alt="Deivid Cauã Araújo github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividsec&layout=compact&hide_border=true&title_color=080cd1&text_color=f2f0f0&bg_color=0d1117" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deividsec&bg_color=050505&color=ebebed&line=080cd1&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="center">
-<a href="https://twitter.com/extasedeiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_azhar_ghafoor" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deivid-araujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azhar-ghafoor" height="30" width="40" /></a>
-<a href="https://github.com/dzinnxl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="@AzharGhafoor" height="30" width="40" /></a>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=deividsec&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<h3 align="center">Linguagens e Ferramentas:</h3>
-<h3 align="center"<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<div align="center">  
+<a href="https://www.instagram.com/deivid.sec" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div> 
+ 
+### Main skills:
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117)&nbsp; 
+ 
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+ 
+### Other Knowledge:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+  
+### Studying in this moment:
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+<!-- <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<br></div> -->
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=080cd1&height=120&section=footer"/>
+
