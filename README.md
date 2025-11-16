@@ -32,6 +32,9 @@
 ![Windows](https://img.shields.io/badge/-Wireshark-0D1117?style=for-the-badge&logo=wireshark&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-BurpSuite-0D1117?style=for-the-badge&logo=burpsuite&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-splunk-0D1117?style=for-the-badge&logo=splunk&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-kaspersky-0D1117?style=for-the-badge&logo=kaspersky&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-metasploit-0D1117?style=for-the-badge&logo=metasploit&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-owasp-0D1117?style=for-the-badge&logo=owasp&labelColor=0D1117)&nbsp;
  
 ### Conhecimentos complementares:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -43,7 +46,6 @@
 ![Python](https://img.shields.io/badge/-cyberdefenders-0D1117?style=for-the-badge&logo=cyberdefenders&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-tryhackme-0D1117?style=for-the-badge&logo=tryhackme&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
